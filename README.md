@@ -92,6 +92,7 @@ Step4:Click on image model
 ![Screenshot 2025-01-09 234950](https://github.com/user-attachments/assets/856f23d6-96f7-46d2-ae30-53bf4631927f)
 
 Step5: Click on Standard image option
+
 ![Screenshot 2025-01-09 235016](https://github.com/user-attachments/assets/7b6418d9-5c8d-4c35-9e4f-6358e22f04f8)
 
 
@@ -100,11 +101,13 @@ Step6: Create your model in Class1 as"your name" and class2 as "unknown"
 
 
 Step7: Train your model
+
 ![Screenshot 2025-01-09 235455](https://github.com/user-attachments/assets/15a21609-9fc8-4a0e-a7b6-2d9eed5a0de6)
 
 Step8:Export your model
 
 Step9: download your "opencv keras model"  in "tensorflow"
+
 ![Screenshot 2025-01-09 235553](https://github.com/user-attachments/assets/46c66d3c-6c8a-4c8e-809d-fc02754c48c9)
 
 Step10: place the converted keras file in the project directory as "keras.h5" and "labels.txt" in pycharm
